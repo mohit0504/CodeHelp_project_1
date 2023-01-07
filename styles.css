@@ -1,0 +1,95 @@
+html{
+    scroll-behavior: smooth;
+    scrollbar-shadow-color: chartreuse;
+}
+
+body{
+    background-color: darksalmon;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+
+section{
+    text-align: center;
+}
+
+
+div{
+    background-color: rgb(124, 161, 76);
+    border-color: rgb(124, 161, 76);
+    height: 120px;
+    width:120px;    
+    
+    display: inline-block;
+    
+    
+}
+div:hover{
+    background-color: gold;
+}
+
+#Black{
+    background-color: rgb(36, 226, 19);
+    border-color: rgb(36, 226, 19);
+}
+#Black:hover{
+    background-color: rgb(212, 0, 255);
+}
+img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.bg{
+    background-color: darksalmon;
+    border-color: aliceblue;
+    height: 120px;
+    width:120px; 
+    padding: 50px;   
+    box-sizing: border-box;
+    display: inline-block;
+}
+.bg:hover{
+    background-color: darksalmon;
+}
+
+p,li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+#hd{
+    text-align: center;
+}
+
+.bg_1{
+    background-color: darkgray;
+    border: 10px;
+    border-color: brown;
+}
+.bg_2{
+    background-color: rgb(59, 132, 216);
+    border: 10px;
+    border-color: brown;
+}
+
+
+
+aside{
+    text-align: right;
+}
+
+footer{
+    text-align: center;
+}
+
+#mypic{
+    width: 200px;
+    height: 200px;
+}
